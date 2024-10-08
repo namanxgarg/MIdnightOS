@@ -1,1 +1,1 @@
-# MIdnightOS
+# MidnightOS
